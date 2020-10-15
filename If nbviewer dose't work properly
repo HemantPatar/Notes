@@ -1,0 +1,5 @@
+If some notebook rendered in nbviewer appears different from rendered in github, then append "?flush_cache=true" to the end of the nbviewer version url to force it to rerender.
+e.g.
+http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb
+becomes
+http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb?flush_cache=true
